@@ -1,1 +1,8 @@
-This is the first commit to initialize a branch
+# Overview
+This repository contains a Jupyter Notebook (agent_design_pattern_notes.ipynb) that provides detailed notes on agent design patterns, focusing on their application in building intelligent AI agents, potentially with Anthropic's Claude models or similar frameworks. The notebook serves as a learning resource or reference for understanding how to structure and implement AI agents effectively.
+<br>
+## File Description
+[agent_design_pattern_notes.ipynb][https://github.com/KinzaaSheikh/anthropic_design_patterns/blob/main/agent_design_pattern_notes.ipynb]: A Jupyter Notebook containing comprehensive notes on agent design patterns. It includes:
+* Theoretical explanations of various agent design patterns (e.g., orchestrator-workers, prompt chaining, evaluator-optimizer).
+* Code snippets illustrating how these patterns are implemented.
+* Examples of use cases, such as task delegation, conversational workflows, or decision-making systems.
